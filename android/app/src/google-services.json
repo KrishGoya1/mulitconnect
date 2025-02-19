@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "209744867352",
+    "firebase_url": "https://multiparty-8bef8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "multiparty-8bef8",
+    "storage_bucket": "multiparty-8bef8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209744867352:android:640483ddfd00af7061936d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_multiparty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVI2JR9PERtvQrlYCjMKCLKlWIkYkag0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209744867352:android:758a60a939140a7561936d",
+        "android_client_info": {
+          "package_name": "com.example.multiparty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVI2JR9PERtvQrlYCjMKCLKlWIkYkag0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
